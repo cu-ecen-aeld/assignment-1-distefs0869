@@ -3,7 +3,7 @@
 filesdir=$1
 searchstr=$2
 
-# Check for correct number of parameters
+# Check for correct number of parameters.
 if [ $# -lt 2 ]
 then
 	echo "ERROR- Please specify 2 parameters: path and search-string."
