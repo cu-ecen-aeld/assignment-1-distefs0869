@@ -1,0 +1,100 @@
+[2026-02-20 01:14:47Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2026-02-20 01:14:47Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:47Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:47Z INFO HostContext] Well known config file 'Credentials': '/home/dad/Desktop/actions-runner/.credentials'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO HostContext] Well known config file 'Runner': '/home/dad/Desktop/actions-runner/.runner'
+[2026-02-20 01:14:48Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2026-02-20 01:14:48Z INFO Listener] RuntimeInformation: Ubuntu 22.04.5 LTS.
+[2026-02-20 01:14:48Z INFO Listener] Version: 2.331.0
+[2026-02-20 01:14:48Z INFO Listener] Commit: 39f6c643d3032f8795fa71f1482731ca90c8e038
+[2026-02-20 01:14:48Z INFO Listener] Culture: en-US
+[2026-02-20 01:14:48Z INFO Listener] UI Culture: en-US
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO Listener] Validating directory permissions for: '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO CommandLineParser] Parse
+[2026-02-20 01:14:48Z INFO CommandLineParser] Parsing 1 args
+[2026-02-20 01:14:48Z INFO CommandLineParser] parsing argument
+[2026-02-20 01:14:48Z INFO CommandLineParser] HasArgs: False
+[2026-02-20 01:14:48Z INFO CommandLineParser] Adding Command: remove
+[2026-02-20 01:14:48Z INFO Listener] Arguments parsed
+[2026-02-20 01:14:48Z INFO Runner] ExecuteCommand
+[2026-02-20 01:14:48Z INFO ConfigurationStore] currentAssemblyLocation: /home/dad/Desktop/actions-runner/bin/Runner.Listener.dll
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] binPath: /home/dad/Desktop/actions-runner/bin
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] RootFolder: /home/dad/Desktop/actions-runner
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO HostContext] Well known config file 'Runner': '/home/dad/Desktop/actions-runner/.runner'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] ConfigFilePath: /home/dad/Desktop/actions-runner/.runner
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO HostContext] Well known config file 'MigratedRunner': '/home/dad/Desktop/actions-runner/.runner_migrated'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] MigratedConfigFilePath: /home/dad/Desktop/actions-runner/.runner_migrated
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO HostContext] Well known config file 'Credentials': '/home/dad/Desktop/actions-runner/.credentials'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] CredFilePath: /home/dad/Desktop/actions-runner/.credentials
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/dad/Desktop/actions-runner/.credentials_migrated'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] MigratedCredFilePath: /home/dad/Desktop/actions-runner/.credentials_migrated
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:14:48Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:14:48Z INFO HostContext] Well known config file 'Service': '/home/dad/Desktop/actions-runner/.service'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] ServiceConfigFilePath: /home/dad/Desktop/actions-runner/.service
+[2026-02-20 01:14:48Z INFO CommandSettings] Flag 'help': 'False'
+[2026-02-20 01:14:48Z INFO CommandSettings] Flag 'version': 'False'
+[2026-02-20 01:14:48Z INFO CommandSettings] Flag 'commit': 'False'
+[2026-02-20 01:14:48Z INFO CommandSettings] Flag 'check': 'False'
+[2026-02-20 01:14:48Z INFO CommandSettings] Command 'configure': 'False'
+[2026-02-20 01:14:48Z INFO CommandSettings] Command 'remove': 'True'
+[2026-02-20 01:14:48Z INFO CommandSettings] Flag 'local': 'False'
+[2026-02-20 01:14:48Z INFO ConfigurationStore] IsServiceConfigured()
+[2026-02-20 01:14:48Z INFO ConfigurationStore] IsServiceConfigured: False
+[2026-02-20 01:14:48Z INFO ConfigurationStore] IsConfigured()
+[2026-02-20 01:14:48Z INFO ConfigurationStore] IsConfigured: True
+[2026-02-20 01:14:48Z INFO ConfigurationStore] HasCredentials()
+[2026-02-20 01:14:48Z INFO ConfigurationStore] stored True
+[2026-02-20 01:14:48Z INFO ConfigurationStore] Read setting file: 400 chars
+[2026-02-20 01:14:48Z INFO CommandSettings] Arg 'token': ''
+[2026-02-20 01:14:48Z INFO CommandSettings] Flag 'unattended': 'False'
+[2026-02-20 01:14:48Z INFO PromptManager] ReadValue
+[2026-02-20 01:14:48Z INFO Terminal] WRITE: Enter runner remove token: 
+[2026-02-20 01:14:48Z INFO Terminal] READ SECRET
+[2026-02-20 01:14:51Z INFO Terminal] Read value: ''
+[2026-02-20 01:14:51Z INFO Terminal] WRITE: Enter runner remove token: 
+[2026-02-20 01:14:51Z INFO Terminal] READ SECRET
+[2026-02-20 01:14:52Z INFO Terminal] Read value: ''
+[2026-02-20 01:14:52Z INFO Terminal] WRITE: Enter runner remove token: 
+[2026-02-20 01:14:52Z INFO Terminal] READ SECRET
+[2026-02-20 01:15:06Z INFO Terminal] Read value: '***'
+[2026-02-20 01:15:07Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (E256:34BDF9:8B93C4:25C1DCF:6997B9F4)
+[2026-02-20 01:15:07Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2026-02-20 01:15:07Z INFO RunnerServer] EstablishVssConnection
+[2026-02-20 01:15:07Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2026-02-20 01:15:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-02-20 01:15:07Z INFO RunnerServer] EstablishVssConnection
+[2026-02-20 01:15:07Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2026-02-20 01:15:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-02-20 01:15:07Z INFO RunnerServer] EstablishVssConnection
+[2026-02-20 01:15:07Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2026-02-20 01:15:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-02-20 01:15:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-02-20 01:15:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-02-20 01:15:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-02-20 01:15:07Z INFO Terminal] WRITE LINE: 
+[2026-02-20 01:15:07Z INFO ConfigurationStore] IsConfigured()
+[2026-02-20 01:15:07Z INFO ConfigurationStore] IsConfigured: True
+[2026-02-20 01:15:07Z INFO ConfigurationStore] HasCredentials()
+[2026-02-20 01:15:07Z INFO ConfigurationStore] stored True
+[2026-02-20 01:15:07Z INFO HostContext] Well known directory 'Bin': '/home/dad/Desktop/actions-runner/bin'
+[2026-02-20 01:15:07Z INFO HostContext] Well known directory 'Root': '/home/dad/Desktop/actions-runner'
+[2026-02-20 01:15:07Z INFO HostContext] Well known config file 'RSACredentials': '/home/dad/Desktop/actions-runner/.credentials_rsaparams'
+[2026-02-20 01:15:07Z INFO RSAFileKeyManager] Deleting RSA key parameters file /home/dad/Desktop/actions-runner/.credentials_rsaparams
+[2026-02-20 01:15:07Z INFO Terminal] WRITE LINE: 
+[2026-02-20 01:15:07Z INFO Listener] Runner execution has finished with return code 0
