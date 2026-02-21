@@ -8,7 +8,7 @@ if [ $# -lt 2 ]
 then
 	echo "ERROR- Please specify 2 parameters: path and search-string."
 	exit 1
-# Ensure that the directory specified exists
+# Ensure that the directory specified exists.
 else if [ ! -d $filesdir ]
 	then
 		echo "ERROR- path ${filesdir} does not exist!"
