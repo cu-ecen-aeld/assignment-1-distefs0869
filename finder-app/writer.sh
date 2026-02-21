@@ -10,7 +10,7 @@ then
 	exit 1
 fi
 
-# Create the file and contents
+# Create the file and contents.
 path=$(dirname "$writefile")
 if [ ! -d $path ]
 then
